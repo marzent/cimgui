@@ -856,6 +856,8 @@ struct ImGuiStyle
     float WindowBorderSize;
     ImVec2 WindowMinSize;
     ImVec2 WindowTitleAlign;
+    ImGuiDir WindowCloseButtonPosition;
+    ImGuiDir WindowTabCloseButtonPosition;
     ImGuiDir WindowMenuButtonPosition;
     float ChildRounding;
     float ChildBorderSize;
